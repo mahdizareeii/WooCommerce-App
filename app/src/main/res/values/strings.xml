@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WooCommerce</string>
+    <string name="request">Request</string>
+    <string name="text_of_product">Text of Product</string>
+    <string name="price">Price</string>
+    <string name="text_of_category">Text of Category</string>
+</resources>
